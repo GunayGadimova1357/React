@@ -1,0 +1,73 @@
+{
+  "sidebar": {
+    "home": "Главная",
+    "search": "Поиск",
+    "task": "Ваши задачи",
+    "schedule": "Расписание",
+    "logout": "Выйти",
+    "deleteAccount": "Удалить аккаунт"
+  },
+  "navbar": {
+    "login": "Войти",
+    "signup": "Зарегистрироваться",
+    "filter": {
+      "all": "Все"
+    }
+  },
+  "login": {
+    "log_in": "Вход",
+    "sign_up": "Регистрация",
+    "continue": "Продолжить",
+    "login_with": "Войти через",
+    "or": "или",
+    "email": "Эл. почта",
+    "password": "Пароль",
+    "no_account": "Нет аккаунта",
+    "fill_all_fields": "Заполните все поля",
+    "log_in_error": "Ошибка при входе"
+  },
+  "signup": {
+    "sign_up": "Регистрация",
+    "sign_up_with": "Зарегистрироваться через",
+    "email_or_username": "Почта или имя пользователя",
+    "email": "Эл. почта",
+    "next": "Далее",
+    "or": "или",
+    "already_have_an_account": "Уже есть аккаунт",
+    "sign_in": "Войти",
+    "fill_all_fields": "Заполните все поля",
+    "sign_up_error": "Ошибка при регистрации",
+    "log_in": "Вход",
+    "password": "Пароль",
+    "password_placeholder": "Пароль"
+  },
+    "errors": {
+    "logout": "Ошибка выхода:",
+    "deleteAccount": "Ошибка при удалении аккаунта:",
+    "requiresRecentLogin": "Пожалуйста, войдите снова перед удалением аккаунта.",
+    "unexpected": "Неизвестная ошибка:"
+  },
+  "prompt": {
+    "title": "Твоя дорога к успеху начинается здесь!",
+    "placeholder": "Спроси что угодно",
+    "aiResponse": "Ответ ИИ на"
+  },
+  "profile": {
+    "title": "Ваш профиль",
+    "streak": "Текущая серия: {{current}} · Максимальная серия: {{max}}"
+  },
+  "tasks": {
+    "title": "Задачи",
+    "done": "Выполнено",
+    "not_done": "В процессе"
+  },
+  "search": {
+    "title": "История поиска",
+    "empty": "История пока пуста",
+    "placeholder": "Введите запрос..."
+  },
+   "chart": {
+    "title": "Серия"
+  }
+}
+

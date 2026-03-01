@@ -1,0 +1,73 @@
+{
+  "sidebar": {
+    "home": "Home",
+    "search": "Search",
+    "task": "Your Tasks",
+    "schedule": "Schedule",
+    "logout": "Log Out",
+    "deleteAccount": "Delete Account"
+  },
+  "navbar": {
+    "login": "Log in",
+    "signup": "Sign Up",
+    "filter": {
+      "all": "All"
+    }
+  },
+  "login": {
+    "log_in": "Log In",
+    "sign_up": "Sign Up",
+    "continue": "Continue",
+    "login_with": "Log in with",
+    "or": "or",
+    "email": "Email",
+    "password": "Password",
+    "no_account": "Don't have an account",
+    "fill_all_fields": "Fill in all fields",
+    "log_in_error": "Log in error"
+},
+"signup": {
+    "sign_up": "Sign Up",
+    "sign_up_with": "Sign up with",
+    "email": "Email",
+    "place_holder": "name@domain.com",
+    "next": "Next",
+    "or": "or",
+    "already_have_an_account": "Already have an account",
+    "log_in": "Log In",
+    "fill_all_fields": "Fill in all fields",
+    "sign_up_error": "Sign up error",
+    "password": "Password",
+    "password_placeholder": "Password"
+
+},
+  "errors": {
+    "logout": "Logout error:",
+    "deleteAccount": "Delete account error:",
+    "requiresRecentLogin": "Please log in again before deleting your account.",
+    "unexpected": "Unexpected error:"
+  },
+  "prompt": {
+    "title": "Your journey starts here!",
+    "placeholder": "Ask anything",
+    "aiResponse": "AI response for"
+  },
+  "profile": {
+    "title": "Your Profile",
+    "streak": "Current streak: {{current}} · Max streak: {{max}}"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "done": "Completed",
+    "not_done": "Pending"
+  },
+  "search": {
+    "title": "Search History",
+    "empty": "No searches yet",
+    "placeholder": "Search for something..."
+  },
+  "chart": {
+    "title": "Streak"
+  }
+}
+

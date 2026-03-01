@@ -1,0 +1,71 @@
+{
+  "sidebar": {
+    "home": "Əsas səhifə",
+    "search": "Axtar",
+    "task": "Tapşırırqlar",
+    "schedule": "Cədvəl",
+    "logout": "Çıxış",
+    "deleteAccount": "Hesabı sil"
+  },
+  "navbar": {
+    "login": "Daxil ol",
+    "signup": "Qeydiyyat",
+    "filter": {
+      "all": "Hamısı"
+    }
+  },
+  "login": {
+    "log_in": "Daxil ol",
+    "sign_up": "Qeydiyyat",
+    "continue": "Davam et",
+    "login_with": "Daxil ol",
+    "or": "və ya",
+    "email": "Email",
+    "password": "Şifrə",
+    "no_account": "Hesabın yoxdur",
+    "fill_all_fields": "Bütün sahələri doldur",
+    "log_in_error": "Daxil olma xətası"
+  },
+  "signup": {
+    "sign_up": "Qeydiyyat",
+    "sign_up_with": "İlə qeydiyyatdan keç",
+    "email_or_username": "Email və ya istifadəçi adı",
+    "place_holder": "ad@domain.com",
+    "next": "İrəli",
+    "or": "və ya",
+    "already_have_an_account": "Artıq hesabın var",
+    "log_in": "Daxil ol",
+    "fill_all_fields": "Bütün sahələri doldur",
+    "sign_up_error": "Qeydiyyat xətası",
+    "password": "Şifrə",
+    "password_placeholder": "Şifrə"
+  },
+    "errors": {
+    "logout": "Çıxışda xəta:",
+    "deleteAccount": "Hesab silinərkən xəta baş verdi:",
+    "requiresRecentLogin": "Hesabı silməzdən əvvəl yenidən daxil olun.",
+    "unexpected": "Gözlənilməz xəta:"
+  },
+  "prompt": {
+    "title": "Sənin uğur yolun buradan başlayır!",
+    "placeholder": "İstənilən sualı ver",
+    "aiResponse": "Süni intellektin cavabı"
+  },
+  "profile": {
+    "title": "Profilin",
+    "streak": "Hazırkı streak: {{current}} · Maks streak: {{max}}"
+  },
+  "tasks": {
+    "title": "Tapşırıqlar",
+    "done": "Tamamlandı",
+    "not_done": "Gözləyir"
+  },
+  "search": {
+    "title": "Axtarış Tarixi",
+    "empty": "Hələ axtarış yoxdur",
+    "placeholder": "Sorğunu daxil edin..."
+  },
+   "chart": {
+    "title": "Streak"
+  }
+}
