@@ -1,0 +1,177 @@
+{
+    "settings": {
+    "title": "Settings",
+    "subtitle": "Account and preferences",
+    "appearance": "Appearance",
+    "language": "Interface Language",
+    "change_ui_lang": "Choose your interface language",
+    "select_lang": "Select Language",
+    "general": "General",
+    "security": "Security",
+    "notifications": "Notifications"
+  },
+  "sidebar": {
+    "view_profile": "View profile",
+    "login": "Log in",
+    "login_prompt": "Sign in to your account",
+    "artist": "Artist",
+    "dashboard": "Dashboard",
+    "releases": "Releases",
+    "tracks": "Tracks",
+    "analytics": "Analytics",
+    "settings": "Settings"
+  },
+  "header": {
+    "logout": "Log out",
+    "logout_success": "Logged out successfully"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "subtitle": "Music performance and audience insights.",
+    "last_update": "Last update",
+    "overview": {
+      "total_streams": "Total Streams",
+      "monthly_listeners": "Monthly Listeners",
+      "active_followers": "Active Followers",
+      "avg._listen_time": "Avg. Listen Time"
+    },
+    "popularity": "Popularity",
+    "current_release": "Current Release",
+    "traffic_sources": "Traffic Sources",
+    "traffic_subtitle": "Where your listeners come from",
+    "sources": {
+      "editorial_playlists": "Editorial Playlists",
+      "user_libraries": "User Libraries",
+      "search_&_radio": "Search & Radio",
+      "other": "Other"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "subtitle": "Monitor your latest activity and library.",
+    "library": "Library",
+    "active_releases": "Active Releases",
+    "latest_release": "Latest Release",
+    "no_cover": "NO COVER",
+    "manage": "Manage",
+    "live_activity": "Live Activity",
+    "full_log": "Full Log"
+  },
+  "login": {
+    "title": "Log in",
+    "subtitle": "Enter your artist credentials",
+    "email_label": "Email Address",
+    "password_label": "Password",
+    "button_continue": "Continue",
+    "button_loading": "Signing in...",
+    "error_fields": "Please fill in all fields",
+    "success_msg": "Welcome!"
+  },
+  "profile": {
+    "upload_photo": "Upload Photo",
+    "change_photo": "Change",
+    "public_settings": "Public Settings",
+    "display_name": "Display Name",
+    "about_bio": "About Bio",
+    "security": "Security",
+    "email": "Email",
+    "new_password": "New Password",
+    "repeat_password": "Repeat Password",
+    "update_btn": "Update Profile",
+    "save_success": "Changes saved to your profile"
+  },
+  "releases": {
+    "title": "Releases",
+    "subtitle": "Manage your albums and singles",
+    "create_btn": "Create Release",
+    "search_placeholder": "Search releases...",
+    "items_count": "items",
+    "loading": "Loading releases...",
+    "table": {
+      "cover": "Cover",
+      "title": "Title",
+      "type": "Type",
+      "date": "Date",
+      "songs": "Songs",
+      "actions": "Actions"
+    },
+    "status": {
+      "published": "Published",
+      "scheduled": "Scheduled"
+    },
+    "types": {
+      "album": "Album",
+      "single": "Single"
+    },
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "toast": {
+      "created": "Release created",
+      "updated": "Release updated",
+      "deleted": "Release \"{{title}}\" deleted"
+    },
+    "delete_dialog": {
+      "title": "Delete Release",
+      "description": "Are you sure you want to delete \"{{title}}\"? This cannot be undone."
+    },
+    "modal": {
+      "title_create": "New Release",
+      "title_edit": "Edit Release",
+      "no_image": "No Image",
+      "upload": "Upload",
+      "label_title": "Title",
+      "placeholder_title": "Enter release title",
+      "label_type": "Type",
+      "cancel": "Cancel",
+      "save": "Save Release"
+    }
+  },
+  "tracks": {
+    "title": "Tracks",
+    "subtitle": "Manage your audio library",
+    "upload_btn": "Upload track",
+    "search_placeholder": "Search tracks, albums, genres...",
+    "items_count": "items",    "loading": "Loading tracks...",    "no_release": "No release",
+    "table": {
+      "cover": "Cover",
+      "title": "Title",
+      "release": "Release",
+      "genres": "Genres",
+      "duration": "Duration",
+      "actions": "Actions"
+    },
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "toast": {
+      "created": "Track \"{{title}}\" uploaded",
+      "updated": "Changes saved",
+      "deleted": "Track deleted",
+      "audio_ready": "Audio analysis complete"
+    },
+    "delete_dialog": {
+      "title": "Delete track",
+      "description": "Are you sure you want to delete \"{{title}}\"?"
+    },
+    "modal": {
+      "title_upload": "Upload Track",
+      "title_edit": "Edit Track"
+    },
+    "form": {
+      "label_release": "Release",
+      "placeholder_release": "Choose a release...",
+      "label_title": "Track Title",
+      "placeholder_title": "Name your track",
+      "label_genres": "Genres",
+      "audio_file": "Audio File",
+      "no_cover": "No Cover",
+      "upload_cover": "Upload Cover",
+      "cancel": "Cancel",
+      "add_btn": "Add Track",
+      "save_btn": "Save Changes"
+    }
+  }
+}

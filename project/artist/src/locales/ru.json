@@ -1,0 +1,177 @@
+{
+    "settings": {
+    "title": "Настройки",
+    "subtitle": "Аккаунт и предпочтения",
+    "appearance": "Внешний вид",
+    "language": "Язык интерфейса",
+    "change_ui_lang": "Выберите язык панели управления",
+    "select_lang": "Выберите язык",
+    "general": "Общие",
+    "security": "Безопасность",
+    "notifications": "Уведомления"
+  },
+  "sidebar": {
+    "view_profile": "Мой профиль",
+    "login": "Вход",
+    "login_prompt": "Войдите в аккаунт",
+    "artist": "Артист",
+    "dashboard": "Дашборд",
+    "releases": "Релизы",
+    "tracks": "Треки",
+    "analytics": "Аналитика",
+    "settings": "Настройки"
+  },
+  "header": {
+    "logout": "Выйти",
+    "logout_success": "Успешный выход"
+  },
+  "analytics": {
+    "title": "Аналитика",
+    "subtitle": "Показатели музыки и инсайты аудитории.",
+    "last_update": "Последнее обновление",
+    "overview": {
+      "total_streams": "Всего стримов",
+      "monthly_listeners": "Слушатели за месяц",
+      "active_followers": "Активные подписчики",
+      "avg._listen_time": "Среднее время прослушивания"
+    },
+    "popularity": "Популярность",
+    "current_release": "Текущий релиз",
+    "traffic_sources": "Источники трафика",
+    "traffic_subtitle": "Откуда приходят ваши слушатели",
+    "sources": {
+      "editorial_playlists": "Редакционные плейлисты",
+      "user_libraries": "Библиотеки пользователей",
+      "search_&_radio": "Поиск и радио",
+      "other": "Другое"
+    }
+  },
+  "dashboard": {
+    "welcome": "С возвращением",
+    "subtitle": "Следите за активностью и вашей библиотекой.",
+    "library": "Библиотека",
+    "active_releases": "Активные релизы",
+    "latest_release": "Последний релиз",
+    "no_cover": "НЕТ ОБЛОЖКИ",
+    "manage": "Управлять",
+    "live_activity": "Активность",
+    "full_log": "Весь лог"
+  },
+  "login": {
+    "title": "Вход",
+    "subtitle": "Введите данные артиста",
+    "email_label": "Email адрес",
+    "password_label": "Пароль",
+    "button_continue": "Продолжить",
+    "button_loading": "Вход...",
+    "error_fields": "Пожалуйста, заполните все поля",
+    "success_msg": "Добро пожаловать!"
+  },
+  "profile": {
+    "upload_photo": "Загрузить фото",
+    "change_photo": "Изменить",
+    "public_settings": "Публичные настройки",
+    "display_name": "Отображаемое имя",
+    "about_bio": "О себе",
+    "security": "Безопасность",
+    "email": "Email",
+    "new_password": "Новый пароль",
+    "repeat_password": "Повторите пароль",
+    "update_btn": "Обновить профиль",
+    "save_success": "Изменения сохранены в профиле"
+  },
+  "releases": {
+    "title": "Релизы",
+    "subtitle": "Управление вашими альбомами и синглами",
+    "create_btn": "Создать релиз",
+    "search_placeholder": "Поиск релизов...",
+    "items_count": "шт.",
+    "loading": "Загрузка релизов...",
+    "table": {
+      "cover": "Обложка",
+      "title": "Название",
+      "type": "Тип",
+      "date": "Дата",
+      "songs": "Песен",
+      "actions": "Действия"
+    },
+    "status": {
+      "published": "Опубликован",
+      "scheduled": "Запланирован"
+    },
+    "types": {
+      "album": "Альбом",
+      "single": "Сингл"
+    },
+    "actions": {
+      "edit": "Правка",
+      "delete": "Удалить"
+    },
+    "toast": {
+      "created": "Релиз создан",
+      "updated": "Релиз обновлен",
+      "deleted": "Релиз \"{{title}}\" удален"
+    },
+    "delete_dialog": {
+      "title": "Удалить релиз",
+      "description": "Вы уверены, что хотите удалить \"{{title}}\"? Это действие нельзя отменить."
+    },
+    "modal": {
+      "title_create": "Новый релиз",
+      "title_edit": "Редактировать релиз",
+      "no_image": "Нет фото",
+      "upload": "Загрузить",
+      "label_title": "Название",
+      "placeholder_title": "Введите название релиза",
+      "label_type": "Тип",
+      "cancel": "Отмена",
+      "save": "Сохранить релиз"
+    }
+  },
+  "tracks": {
+    "title": "Треки",
+    "subtitle": "Управление вашей библиотекой аудио",
+    "upload_btn": "Загрузить трек",
+    "search_placeholder": "Поиск треков, альбомов, жанров...",
+    "items_count": "шт.",    "loading": "Загрузка треков...",    "no_release": "Без релиза",
+    "table": {
+      "cover": "Обложка",
+      "title": "Название",
+      "release": "Релиз",
+      "genres": "Жанры",
+      "duration": "Длительность",
+      "actions": "Действия"
+    },
+    "actions": {
+      "edit": "Правка",
+      "delete": "Удалить"
+    },
+    "toast": {
+      "created": "Трек \"{{title}}\" загружен",
+      "updated": "Изменения сохранены",
+      "deleted": "Трек удален",
+      "audio_ready": "Аудио проанализировано"
+    },
+    "delete_dialog": {
+      "title": "Удалить трек",
+      "description": "Вы уверены, что хотите удалить \"{{title}}\"?"
+    },
+    "modal": {
+      "title_upload": "Загрузить трек",
+      "title_edit": "Редактировать трек"
+    },
+    "form": {
+      "label_release": "Релиз",
+      "placeholder_release": "Выберите релиз...",
+      "label_title": "Название трека",
+      "placeholder_title": "Назовите ваш трек",
+      "label_genres": "Жанры",
+      "audio_file": "Аудио файл",
+      "no_cover": "Нет обложки",
+      "upload_cover": "Загрузить обложку",
+      "cancel": "Отмена",
+      "add_btn": "Добавить трек",
+      "save_btn": "Сохранить изменения"
+    }
+  }
+}
