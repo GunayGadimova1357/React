@@ -1,0 +1,81 @@
+:root {
+  --bg: #f3f5f7;
+  --surface: rgba(255, 255, 255, 0.92);
+  --text: #4c5a65;
+  --text-h: #18232b;
+  --muted: #6d7b86;
+  --border: rgba(24, 35, 43, 0.1);
+  --accent: #2e6074;
+  --shadow:
+    0 16px 36px rgba(24, 35, 43, 0.07),
+    0 4px 14px rgba(24, 35, 43, 0.04);
+  --sans: 'Segoe UI', 'Helvetica Neue', sans-serif;
+  --heading: 'Iowan Old Style', Georgia, serif;
+
+  color: var(--text);
+  background:
+    radial-gradient(circle at top left, rgba(162, 202, 218, 0.22), transparent 26%),
+    linear-gradient(180deg, #f7f9fb 0%, #eef2f5 100%);
+  font: 16px/1.5 var(--sans);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(circle at 20% 15%, rgba(46, 96, 116, 0.06), transparent 18%),
+    radial-gradient(circle at 80% 10%, rgba(89, 129, 145, 0.08), transparent 22%);
+  pointer-events: none;
+}
+
+#root {
+  position: relative;
+  min-height: 100vh;
+}
+
+img {
+  max-width: 100%;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+h1,
+h2 {
+  color: var(--text-h);
+  font-family: var(--heading);
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: clamp(2.4rem, 4vw, 4.5rem);
+}
+
+h2 {
+  font-size: clamp(1.3rem, 2vw, 1.9rem);
+}
+
+p {
+  margin: 0;
+}
